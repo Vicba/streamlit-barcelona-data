@@ -1,6 +1,5 @@
 ## 👀 Overview
-This is my personal blog. I started this to get out of my comfort zone and improve my writing skills. Besides that it's just fun.
-There will be posts about my experiences, thoughts and ideas.
+Made this school project that aims to provide interactive visualizations of various datasets related to Barcelona from the years 2013 to 2017. The data covers various aspects of life in Barcelona, such as population, transportation, tourism, ...
 
 Hope you like it!
 
