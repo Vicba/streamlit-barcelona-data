@@ -5,6 +5,7 @@ There will be posts about my experiences, thoughts and ideas.
 Hope you like it!
 
 ## 🚀 Quick start
+Run the following commands to test it out!
 
 1. Clone this project
 
