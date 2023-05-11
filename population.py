@@ -20,6 +20,10 @@ import folium
 from folium import plugins
 from folium.plugins import HeatMap
 
+import json
+from urllib.request import urlopen
+
+
 import warnings
 
 warnings.filterwarnings("ignore")
@@ -35,6 +39,22 @@ def app():
     st.subheader("The Raw Data")
 
     st.write(df.head())
+
+    ###################################################################################################################################
+
+    st.subheader("Population over the years")
+
+    yearPOPULATION_count = df.groupby("Year")["Number"].sum().reset_index()
+
+    fig = px.line(
+        yearPOPULATION_count,
+        x="Year",
+        y="Number",
+        title="Population Change From 2013 To 2017",
+    )
+    st.plotly_chart(fig)
+
+    ###################################################################################################################################
 
     st.subheader("Gender distribution")
     # Calculate the male and female populations for each year
@@ -131,3 +151,61 @@ def app():
     )
 
     ###################################################################################################################################
+
+    st.write("Can I add a bar chart with the age of the population for the story")
+
+    ###################################################################################################################################
+
+    st.subheader("Population by neighbourhood")
+
+    # Load the geojson data
+    with urlopen(
+        "https://raw.githubusercontent.com/martgnz/bcn-geodata/master/barris/barris.geojson"
+    ) as response:
+        gjson_neigh = json.load(response)
+
+    # Rename the district to avoid errors with geojson
+    gjson_neigh["features"][7]["properties"]["NOM"] = "el Poble Sec"
+
+    # Load the population data
+    data_population = pd.read_csv("./data/population.csv")
+
+    data_2017 = data_population[data_population["Year"] == 2017]
+
+    # Create choropleth map
+    # Create choropleth map
+    fig = px.choropleth_mapbox(
+        data_population.groupby(["Neighborhood.Name"]).sum().reset_index(),
+        geojson=gjson_neigh,
+        color="Number",
+        locations="Neighborhood.Name",
+        featureidkey="properties.NOM",
+        color_continuous_scale="YlOrRd",
+        center={"lat": 41.395, "lon": 2.18},
+        mapbox_style="open-street-map",
+        zoom=11,
+        opacity=0.9,
+        height=620,
+    )
+
+    fig.update_layout(title="Population of Barcelona Neighborhoods in 2017")
+
+    # Show the map using the plotly_chart function
+    st.plotly_chart(fig)
+
+    ###################################################################################################################################µµ
+
+    df_2017 = df[df["Year"] == 2017]
+
+    fig = px.funnel(
+        df_2017,
+        x="Number",
+        y="Age",
+        color="Gender",
+        color_discrete_sequence=["rgb(225,70,84)", "rgb(30,40,100)"],
+        height=600,
+    )
+
+    fig.update_layout(title="Population Pyramid", xaxis_title="Number")
+
+    st.plotly_chart(fig)
