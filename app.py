@@ -19,6 +19,7 @@ class MultiPage:
 import home
 import population
 import transport
+import tourism
 
 # create an instance of the MultiPage class
 app = MultiPage()
@@ -28,11 +29,14 @@ app = MultiPage()
 app.add_page("Home", home.app)
 app.add_page("Population", population.app)
 app.add_page("Transport", transport.app)
+app.add_page("Tourism", tourism.app)
 
 
 # sidebar dropdown with dataset options
 st.sidebar.header("Barcelona Data Sets")
-dataset = st.sidebar.selectbox("Select Dataset", ("Home", "Population", "Transport"))
+dataset = st.sidebar.selectbox(
+    "Select Dataset", ("Home", "Population", "Transport", "Tourism")
+)
 
 # show the appropriate page based on the user's selection
 if dataset == "Home":
@@ -41,3 +45,5 @@ elif dataset == "Population":
     population.app()
 elif dataset == "Transport":
     transport.app()
+elif dataset == "Tourism":
+    tourism.app()

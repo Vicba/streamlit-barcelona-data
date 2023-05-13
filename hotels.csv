@@ -1,0 +1,442 @@
+name,addresses_road_name,addresses_start_street_number,addresses_neighborhood_name,addresses_district_name,values_value,geo_epgs_25831_x,geo_epgs_25831_y
+Hotel H10 Port Vell - HB-004568,Pas Sota Muralla,9,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,933103065,431757.65441292385,4581440.781404022
+Hotel H10 Metropolitan - HB-004625,Rbla Catalunya,7,la Dreta de l'Eixample,Eixample,932140720,430412.2173482431,4582144.606261208
+Hotel Constanza - HB-004138,C Bruc,33,la Dreta de l'Eixample,Eixample,932701910,430858.36792562774,4582562.6272740085
+Leonardo Boutique Hotel Barcelona Sagrada Familia- HB-004455,C Mallorca,606,el Camp de l'Arpa del Clot,Sant Martí,932314258,431939.7909810235,4584709.475554272
+Hotel Four Points By Sheraton Barcelona Diagonal - HB-004103,Av Diagonal,161,el Poblenou,Sant Martí,934868800,432815.4126031599,4584074.052925449
+Hotel Roger de Lluria - HB-004097,C Roger de Llúria,28,la Dreta de l'Eixample,Eixample,933436080,430758.1719112303,4582505.327812558
+Hotel Grupotel Gran Via 678 - HB-004421,G.V. Corts Catalanes,678,la Dreta de l'Eixample,Eixample,931924560,430842.0930642802,4582657.622343864
+Hotel Evenia Rocafort - HB-004197,C Rocafort,25,Sant Antoni,Eixample,932892400,429522.2712657843,4580869.954517114
+Hotel Ciutadella Barcelona - HB-004539,Av Marquès de l'Argentera,4,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,933191944,431827.66568117996,4581692.781958716
+Hotel Turó de Vilana - HB-004027,C Vilana,7,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,934340363,427184.1793079991,4584074.015760308
+Hotel Center Gran Via - HB-004572,G.V. Corts Catalanes,573,l'Antiga Esquerra de l'Eixample,Eixample,934512898,429941.0059902254,4581848.410054255
+Hotel Victoria Palace - HB-004635,C Roger de Llúria,42,la Dreta de l'Eixample,Eixample,932693939,430641.73901834065,4582624.323627702
+Hotel H10 Art Gallery - HB-004616,C Enric Granados,62,l'Antiga Esquerra de l'Eixample,Eixample,932142030,429526.6738566845,4582618.632452664
+Hotel America - HB-004153,C Provença,195,l'Antiga Esquerra de l'Eixample,Eixample,934876292,429549.410639473,4582600.65563279
+Hotel Ilunion Barcelona - HB-004313,C Ramon Turró,196,el Poblenou,Sant Martí,932438800,433343.5926183819,4583335.290235304
+Hotel NH Barcelona Eixample - HB-003860,C València,105,l'Antiga Esquerra de l'Eixample,Eixample,933236215,429287.09432425274,4581956.594862395
+Hotel Praktik Vinoteca - HB-004628,C Balmes,51,l'Antiga Esquerra de l'Eixample,Eixample,934545028,429975.13756032917,4582319.760461886
+Hotel AC Sants - HB-004335,Pg Sant Antoni,36,Sants,Sants-Montjuïc,934324512,427982.38320632896,4581025.683672416
+Hotel Novotel Barcelona City - HB-004414,Av Diagonal,199,el Parc i la Llacuna del Poblenou,Sant Martí,933262499,432387.61678703653,4583934.7181990445
+Hotel Primeroprimera - HB-004645,Carrer del Doctor Carulla,25,les Tres Torres,Sarrià-Sant Gervasi,93 417 56 00,427261.3946687206,4583561.240777877
+Hotel Eurostars BCN Design - HB-004437,Pg Gràcia,29,la Dreta de l'Eixample,Eixample,933444555,430281.8605459202,4582479.682964896
+Hotel Curious - HB-004354,C Carme,25,el Raval,Ciutat Vella,933014484,430642.73623314686,4581535.252255112
+Hotel U232 - HB-002733,C Comte d'Urgell,232,l'Antiga Esquerra de l'Eixample,Eixample,933224153,428856.9864216622,4582351.878915074
+Hotel Duquesa de Cardona - HB-004147,Pg Colom,12,el Barri Gòtic,Ciutat Vella,932689090,431483.1881197949,4581252.282188313
+Hotel Mandarin Oriental Barcelona - HB-004403,Pg Gràcia,38,la Dreta de l'Eixample,Eixample,931518888,430330.618063453,4582521.116570688
+Hotel Acevi Villarroel - HB-004189,C Villarroel,106,l'Antiga Esquerra de l'Eixample,Eixample,934520000,429498.8062821444,4581880.703647193
+AC Hotel Barcelona Fòrum - HB-004223,Passeig del Taulat,272,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,934898200,434699.89938739996,4584589.7286359705
+Hotel Barcelona Condal Mar by Meliá - HB-004378,C Cristóbal de Moura,138,Provençals del Poblenou,Sant Martí,933077727,433900.8009023741,4584871.4313640725
+Hotel HCC Montblanc - HB-004088,Via Laietana,61,el Barri Gòtic,Ciutat Vella,933435555,430904.65256394923,4582133.285472665
+Hotel Sunotel Central - HB-004348,G.V. Corts Catalanes,570,Sant Antoni,Eixample,934527374,429912.31229013106,4581747.747030666
+Hotel chic&basic Born Boutique - HB-004452,C Princesa,50,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,932954652,431653.58930630225,4582023.560695588
+Hotel Miramar - HB-004370,Pl Carlos Ibáñez,3,el Poble-sec,Sants-Montjuïc,932811600,430674.21519094484,4580254.997758891
+Hotel  HG City Suites Barcelona - HB-003821,Via Augusta,89,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,932373940,428950.7532452856,4583606.999690721
+Hotel Ofelias - HB-004547,C Llança,24,la Nova Esquerra de l'Eixample,Eixample,934233898,428930.0060114416,4580934.07676718
+Hotel Sir Victor - HB-004273,C Rosselló,265,la Dreta de l'Eixample,Eixample,932711244,429861.6445043444,4583083.1019910835
+Sercotel Ámister Art Hotel - HB-004243,Av Roma,93,la Nova Esquerra de l'Eixample,Eixample,933633468,429055.2466166706,4581773.188603617
+Abac restaurant & hotel - HB-004321,Av Tibidabo,1,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,933196600,427833.8748605277,4584708.562712084
+Hotel Catalonia Magdalenes - HB-004727,C Magdalenes,13,el Barri Gòtic,Ciutat Vella,934813517,430989.24377918633,4581950.489273697
+Hotel Room Mate Gerard - HB-004752,C Ausiàs Marc,34,la Dreta de l'Eixample,Eixample,931828031,431126.90831574454,4582562.234332645
+Hotel Barcelona 1882 - HB-004770,C Còrsega,482,el Camp d'en Grassot i Gràcia Nova,Gràcia,933478486,430573.65940906806,4583937.595803489
+Hotel Best Western Premier Hotel Dante - HB-002007,C Mallorca,181,l'Antiga Esquerra de l'Eixample,Eixample,933232254,429480.43736593606,4582332.88523101
+Hotel Oriente Atiram - HB-000080,C Rambla,45,el Raval,Ciutat Vella,933022558,430950.5582989433,4581250.330098996
+Hotel Majestic - HB-000038,Pg Gràcia,68,la Dreta de l'Eixample,Eixample,934881717,430095.911291374,4582777.358022269
+Hotel Teatre Auditori - HB-004521,C Ribes,71,el Fort Pienc,Eixample,932456485,431793.05165700143,4583472.178590913
+Hotel Sant Antoni - HB-004429,C Consell de Cent,476,el Fort Pienc,Eixample,932444415,431243.5319973846,4583467.114529033
+Hotel Paseo de Gracia - HB-003252,Pg Gràcia,102,la Dreta de l'Eixample,Eixample,932150603,429864.1604908884,4583030.356506143
+Hotel Sofitel Barcelona Skipper - HB-004318,Av Litoral,10,la Barceloneta,Ciutat Vella,932216565,432674.1344051657,4581927.1028416185
+Hotel Seventy - HB-004892,C Còrsega,344,la Dreta de l'Eixample,Eixample,930 121 270,429904.7410439761,4583282.71805282
+Hotel Villa Emilia by Katja & Antoine - HB-004329,C Calàbria,115,la Nova Esquerra de l'Eixample,Eixample,932525285,429269.9336251556,4581318.792083327
+Gran Hotel Barcino - HB-003969,C Jaume I,6,el Barri Gòtic,Ciutat Vella,933022012,431252.4332888088,4581617.404577872
+Hotel Exe Mitre - HB-003687,C Bertran,9,el Putxet i el Farró,Sarrià-Sant Gervasi,932121104,428167.6587531085,4584078.423927639
+Hotel Upper Diagonal - HB-004716,Pg Manuel Girona,7,Sarrià,Sarrià-Sant Gervasi,932046573,426567.71664455975,4582479.221183149
+Hotel ME Barcelona - HB-004955,Carrer de Casp,1,la Dreta de l'Eixample,Eixample,93 277 94 18,430607.19831482,4582272.002813459
+Hotel Kimpton Vividora - HB-004063,C Duc,15,el Barri Gòtic,Ciutat Vella,936 425 400,430847.4631891089,4581796.310749303
+Hotel Acta City 47 - HB-003934,C Nicaragua,47,Sants,Sants-Montjuïc,933637474,428156.63436979626,4581691.557210491
+Hotel Catalonia Plaça Catalunya - HB-003846,C Bergara,11,la Dreta de l'Eixample,Eixample,933015151,430474.5447750643,4581986.541816433
+Hotel Arc La Rambla - HB-003885,C Rambla,19,el Raval,Ciutat Vella,933019798,431062.96224370896,4581066.518916083
+Hotel Room Mate Emma - HB-004428,C Rosselló,205,l'Antiga Esquerra de l'Eixample,Eixample,900818320,429474.35934801726,4582700.238645584
+Monument Hotel - HB-003797,Pg Gràcia,75,la Dreta de l'Eixample,Eixample,935482000,429963.28356952505,4582829.1394896535
+Hotel Ginebra - HB-002395,Rbla Catalunya,1,la Dreta de l'Eixample,Eixample,932502017,430443.56004996056,4582113.755568693
+Aparthotel Allada - HB-004657,C Allada-Vermell,6,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,932683388,431501.134785341,4582037.932524492
+Hotel Derby - HB-002794,C Loreto,21,les Corts,Les Corts,933223215,428266.13815732615,4582385.377463384
+Hotel El Palace - HB-000064,G.V. Corts Catalanes,668,la Dreta de l'Eixample,Eixample,935101130,430742.42305296846,4582560.368272319
+Aparthotel Augusta - HB-003712,C Lincoln,32,el Putxet i el Farró,Sarrià-Sant Gervasi,932183355,428808.95660501544,4583691.851833314
+Hotel Regencia Colón - HB-000023,C Sagristans,13,el Barri Gòtic,Ciutat Vella,933189858,431076.4469488775,4581865.6291196
+Hotel Bestprice Gracia - HB-004719,C Martí,122,el Camp d'en Grassot i Gràcia Nova,Gràcia,934614260,429865.5421535397,4584584.779346382
+Hotel Marina Folch - HB-002644,C Mar,16,la Barceloneta,Ciutat Vella,933103709,432061.1524802201,4581351.450337031
+Arenas Atiram Hotel - HB-003272,C Capità Arenas,20,Pedralbes,Les Corts,932800303,426951.69891453185,4582470.247353886
+Hotel Alguer Camp Nou - HB-003643,Ptge Pere Rodríguez,20,la Maternitat i Sant Ramon,Les Corts,936817344,426237.30818189064,4580992.0626242915
+Hotel H10 Casa Mimosa - HB-004739,C Pau Claris,179,la Dreta de l'Eixample,Eixample,932142330,429966.0674875382,4583093.085915331
+Hotel Arts Barcelona - HB-003984,C Marina,19,la Barceloneta,Ciutat Vella,932211000,432827.2078939822,4582043.060740502
+Hotel Santa Marta - HB-000495,C General Castaños,14,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,933194427,431869.3942798935,4581671.1221785145
+HCC Hotel Regente - HB-002057,Rbla Catalunya,76,la Dreta de l'Eixample,Eixample,934875989,429958.1546589917,4582638.782345727
+Hotel Intercontinental Barcelona - HB-003940,Avinguda de Rius i Taulet,1,el Poble-sec,Sants-Montjuïc,93 426 22 23,429299.0855180074,4580480.018277144
+Hotel Casa Bonay - HB-004703,Gran Via de les Corts Catalanes,700,la Dreta de l'Eixample,Eixample,935458070,430971.17978374514,4582784.213135202
+Hotel Catalonia Portal de l'Àngel - HB-004036,Av Portal de l'Àngel,17,el Barri Gòtic,Ciutat Vella,933184141,430851.1351332993,4581894.173795035
+Angli-78 Hotel-Apartament - HB-004025,C Anglí,78,Sarrià,Sarrià-Sant Gervasi,934178439,426585.1961326474,4584047.0378939
+Aparthotel Acacia - HB-004013,C Comte d'Urgell,194,l'Antiga Esquerra de l'Eixample,Eixample,934540737,429033.31674567866,4582172.286704492
+Hotel Melià Barcelona Sarrià- HB-003463,Av Sarrià,50,les Corts,Les Corts,934106060,428269.42209540453,4582526.121090869
+Hotel Exe Cristal Palace - HB-000372,C Diputació,257,la Dreta de l'Eixample,Eixample,933930970,430280.9935773788,4582368.524049294
+Hotel Room Mate Anna - HB-004733,C Aragó,271,la Dreta de l'Eixample,Eixample,935959555,430236.9019358994,4582706.314744491
+Hotel Cantón - HB-002816,C Nou de Sant Francesc,40,el Barri Gòtic,Ciutat Vella,933173019,431270.81321466377,4581105.679576157
+Hotel H10 Madison- HB-004807,C Doctor Joaquim Pou,2,el Barri Gòtic,Ciutat Vella,932382137,431061.51207641157,4581951.769275948
+Motel One Barcelona-Ciutadella - HB-004822,Pg Pujades,11,el Parc i la Llacuna del Poblenou,Sant Martí,936261900,431832.8164900519,4582388.995165969
+Hotel chic&basic Velvet - HB-003947,C Consell de Cent,74,la Nova Esquerra de l'Eixample,Eixample,934234647,428938.22987330693,4581209.439081094
+Hotel Catalonia Sagrada Família - HB-003791,C Aragó,569,el Camp de l'Arpa del Clot,Sant Martí,932458905,431880.2046387844,4584319.042349316
+Hotel Internacional Rambla Atiram - HB-000035,C Rambla,78,el Barri Gòtic,Ciutat Vella,935151723,430899.49376545905,4581396.3046638025
+Hotel Catalonia Atenas - HB-003809,Av Meridiana,151,el Camp de l'Arpa del Clot,Sant Martí,932322011,432016.524237164,4584702.393638752
+Aparthotel Bonanova Suite - HB-003863,C Bisbe Sivilla,7,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,932531563,427793.56537533266,4584133.813307824
+Hotel Glòries - HB-004012,C Padilla,173,el Fort Pienc,Eixample,932650808,431706.3844703129,4583614.01219002
+Hotel Trànsit - HB-003839,C Rector Triadó,82,Hostafrancs,Sants-Montjuïc,934246013,428343.11568386335,4581095.523067373
+Pol & Grace Hotel - HB-004074,C Guillem Tell,49,el Putxet i el Farró,Sarrià-Sant Gervasi,934154000,428762.2710545509,4583710.955637158
+Hotel Catalonia Barcelona Plaza - HB-003967,Pl Espanya,6,Hostafrancs,Sants-Montjuïc,934262600,428786.8494344121,4580787.917163807
+Hotel Catalonia Ramblas - HB-004379,C Pelai,28,el Raval,Ciutat Vella,933168400,430342.52107539435,4581904.626588623
+Hotel Casa Camper Barcelona - HB-004209,C Elisabets,11,el Raval,Ciutat Vella,933426280,430476.79782440804,4581641.762181545
+Hotel Toledano - HB-000480,C Rambla,138,el Barri Gòtic,Ciutat Vella,933010872,430656.744033181,4581844.702237997
+Hotel Barcelona Princess - HB-004302,Avinguda Diagonal,1,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,933561000,434690.52126972884,4584678.690396701
+Hotel Condado - HB-000066,C Aribau,201,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,932002311,428900.7478517799,4583035.9432504475
+Hotel Rialto - HB-000026,C Ferran,42,el Barri Gòtic,Ciutat Vella,932689070,431142.4333814841,4581503.717665026
+Hotel Sunotel Club Central - HB-004564,C València,157,l'Antiga Esquerra de l'Eixample,Eixample,934520533,429507.7221343862,4582172.2698039
+Hotel Boutique Hostemplo - HB-004686,Ptge Gaiolà,19,la Sagrada Família,Eixample,934765575,430903.0112724969,4583630.373867256
+Hotel Renaissance Barcelona - HB-002836,C Pau Claris,122,la Dreta de l'Eixample,Eixample,932723810,430383.76451065077,4582696.393871548
+Hotel AinB - HB-004507,C Muntaner,4,Sant Antoni,Eixample,934395664,430020.7552395932,4581730.030226028
+Hotel Atlas - HB-004375,C Cardenal Casañas,11,el Barri Gòtic,Ciutat Vella,933041889,430885.19688459724,4581492.994717191
+Hotel Bcn Urban Gran Rosellon - HB-004681,C Rosselló,174,l'Antiga Esquerra de l'Eixample,Eixample,935480998,429440.3016923206,4582636.760257792
+Hotel Casa Maca Guest House 3 - HB-004639,C Bruc,146,la Dreta de l'Eixample,Eixample,644200680,430261.0455980112,4583204.502889442
+BarcelonaGo Hotel & Apartments - HB-004599,C Lepant,143,el Fort Pienc,Eixample,932317552,431826.6293638617,4583308.708192201
+Hotel España - HB-000073,C Sant Pau,9,el Raval,Ciutat Vella,935500000,430835.9554091639,4581270.07688283
+Aparthotel Duquesa Suites - HB-004711,Pl Antonio López,5,el Barri Gòtic,Ciutat Vella,937379125,431559.2323518292,4581392.807832137
+Hotel Ónix Fira - HB-003971,C Llança,30,la Nova Esquerra de l'Eixample,Eixample,934260087,428909.25720875885,4580955.088557711
+Hotel Rey Juan Carlos I - HB-003961 *Temporalment tancat,Av Diagonal,661,la Maternitat i Sant Ramon,Les Corts,933644040,425486.5763728202,4581483.379664185
+Hotel The One Barcelona - HB-004745,C Provença,277,la Dreta de l'Eixample,Eixample,932142070,430044.51872901566,4583074.692111003
+Hotel Banys Orientals - HB-004121,C Argenteria,37,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,932688460,431443.6024158642,4581688.159926167
+Aparthotel Nàpols - HB-004030,C Nàpols,116,el Fort Pienc,Eixample,932464573,431415.5834252073,4582978.682328454
+Hotel NH Collection Barcelona Pódium - HB-003985,C Bailèn,4,la Dreta de l'Eixample,Eixample,932650202,431254.0850776218,4582572.421259135
+Hotel Claris - HB-003933,C Pau Claris,150,la Dreta de l'Eixample,Eixample,934876262,430197.88127762574,4582887.095972756
+Hotel Catalonia Barcelona 505 - HB-003795,C Muntaner,505,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,932128012,427886.11352945544,4583885.70474717
+Hotel Roma Reial - HB-000063,Pl Reial,11,el Barri Gòtic,Ciutat Vella,933020366,431084.7389884138,4581279.10184555
+Hotel Holiday Inn Express Barcelona City 22@ - HB-004325,C Pallars,203,el Poblenou,Sant Martí,934338400,432953.3693477369,4583648.472103424
+Park Hotel - HB-000082,Av Marquès de l'Argentera,11,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,933196000,431804.10290163435,4581735.287539146
+Hotel Dalia Ramblas - HB-004502,C Sant Pau,22,el Raval,Ciutat Vella,934120718,430837.060394172,4581290.740681369
+Hotel Oasis - HB-002279,Pla Palau,17,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,933194396,431831.1036729794,4581568.300174284
+Hotel Everest - HB-000839,Trav Gràcia,441,el Baix Guinardó,Horta-Guinardó,934369800,430906.11601273675,4584748.8079612125
+Hotel Barbarà - HB-003728,C Marquès de Barberà,22,el Raval,Ciutat Vella,933298453,430725.7575300259,4581030.091202725
+Hotel Acta Azul - HB-003944,G.V. Corts Catalanes,327,Hostafrancs,Sants-Montjuïc,934255161,428582.3234804701,4580518.517750599
+Hotel Barcelona Century - HB-003970,C València,154,l'Antiga Esquerra de l'Eixample,Eixample,934534400,429334.88685632596,4581972.520716977
+Hotel Atlantis by Atbcn - HB-003914,C Pelai,20,el Raval,Ciutat Vella,933189012,430297.84350843605,4581910.751519645
+Hotel Monegal - HB-000488,C Pelai,62,el Raval,Ciutat Vella,933026566,430577.19180027617,4581874.978926212
+Aparthotel Citadines Barcelona Ramblas - HB-003992,C Rambla,122,el Barri Gòtic,Ciutat Vella,932701111,430724.2734059222,4581702.853636139
+Hotel Barcelona Apolo - HB-003988,Av Paral·lel,57,el Poble-sec,Sants-Montjuïc,933430000,430620.38762374385,4580694.851453623
+Hotel Ilunion Almirante - HB-003906,Via Laietana,42,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,932683020,431118.185526504,4581946.841335587
+Hotel Adagio - HB-000446,C Ferran,21,el Barri Gòtic,Ciutat Vella,933189061,431023.403560914,4581395.462697324
+Hotel Silken Ramblas - HB-003951,C Pintor Fortuny,13,el Raval,Ciutat Vella,933426180,430603.88059588935,4581608.051536648
+Hotel Abbot - HB-003923,Av Roma,23,la Nova Esquerra de l'Eixample,Eixample,934300405,428509.40998851403,4581464.528500956
+Hotel Balmes - HB-003888,C Mallorca,216,l'Antiga Esquerra de l'Eixample,Eixample,934456500,429709.7900960945,4582527.251382342
+Hotel Melia Barcelona Sky - HB-004358,C Pere IV,272,el Poblenou,Sant Martí,933672050,433186.4009803291,4584168.772075232
+Hotel SERHS del Port - HB-004303,Av Paral·lel,40,el Raval,Ciutat Vella,932308500,430800.8948631999,4580720.036244766
+Hotel NH Barcelona Stadium - HB-001969,Trav Corts,150,la Maternitat i Sant Ramon,Les Corts,933399050,427012.05754404527,4581473.859089918
+Hotel Catalunya - HB-000047,C Santa Anna,24,el Barri Gòtic,Ciutat Vella,933019150,430750.35511549714,4581881.978893412
+Hotel Iberostar Paseo de Gracia - HB-004805,Pl Catalunya,10,la Dreta de l'Eixample,Eixample,900811676,430552.28798589116,4582148.599251043
+Hotel Autohogar - HB-000022,Av Paral·lel,64,el Raval,Ciutat Vella,934439850,430543.3023639413,4580740.504992117
+Hotel Zenit Barcelona - HB-000386,C Santaló,8,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,932411800,428681.52199987316,4582952.189021324
+Hotel Suizo - HB-000002,Pl Àngel,12,el Barri Gòtic,Ciutat Vella,933106108,431297.59683457337,4581691.644862518
+Hotel The Wittmore - HB-004730,C Riudarenes,7,el Barri Gòtic,Ciutat Vella,935500885,431410.71379880566,4581378.120945384
+Hotel Catalonia Diagonal Centro - HB-003918,C Balmes,142,la Dreta de l'Eixample,Eixample,934159090,429509.8199765822,4582828.208404512
+Hotel Comercio - HB-000050,Nou de Zurbano,7,el Barri Gòtic,Ciutat Vella,933187374,431092.4459287743,4581204.433575923
+Hotel NH Sants Barcelona - HB-003542,C Numància,72,les Corts,Les Corts,933224451,427913.3667088958,4581812.135981984
+HCC Hotel St. Moritz - HB-003891,C Diputació,262,la Dreta de l'Eixample,Eixample,934121500,430439.06901506707,4582493.701860495
+Hotel Actual - HB-004290,C Rosselló,238,la Dreta de l'Eixample,Eixample,935520550,429872.9723983925,4583063.29918661
+Hotel Viladomat - HB-004071,C Viladomat,197,la Nova Esquerra de l'Eixample,Eixample,932296565,429084.4713481138,4581699.431329548
+Hotel Neri - HB-004130,C Sant Sever,5,el Barri Gòtic,Ciutat Vella,933040655,431061.39114386286,4581628.31943245
+Hotel Acta Atrium Palace - HB-004270,G.V. Corts Catalanes,656,la Dreta de l'Eixample,Eixample,933428000,430669.5067763161,4582489.171952019
+Hotel Hesperia Barcelona Presidente - HB-001911,Av Diagonal,570,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,932002111,428856.55731813953,4582861.240945441
+Hotel Royal Passeig de Gràcia - HB-004545,Pg Gràcia,84,la Dreta de l'Eixample,Eixample,937370010,429982.09537162795,4582901.611786533
+Hotel Soho - HB-004412,G.V. Corts Catalanes,543,l'Antiga Esquerra de l'Eixample,Eixample,935529610,429757.6928097198,4581668.889768153
+Hotel Ohla - HB-004451,Via Laietana,49,el Barri Gòtic,Ciutat Vella,933415050,430969.24795151595,4582057.950220982
+Hotel Annex - HB-000947,C Jaume I,8,el Barri Gòtic,Ciutat Vella,933106208,431264.8991651115,4581629.6674607275
+Hotel Avenida Palace - HB-000016,G.V. Corts Catalanes,605,la Dreta de l'Eixample,Eixample,933019600,430389.9315352654,4582287.692860433
+"Alexandra Barcelona, Curio Collection by Hilton Hotel - HB-003851",C Mallorca,251,la Dreta de l'Eixample,Eixample,934677166,429905.10015151824,4582749.674252853
+Hotel California - HB-000101,C Rauric,14,el Barri Gòtic,Ciutat Vella,933177766,431043.8993647718,4581380.195850511
+Hotel Niu Barcelona - HB-004756,Rbla Raval,8,el Raval,Ciutat Vella,936550255,430492.46077478223,4581144.945033747
+Hotel AC Irla - HB-004304,C Calvet,40,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,932416210,428397.64276032464,4582943.88404235
+Hotel Colors - HB-004117,C Campoamor,79,Horta,Horta-Guinardó,932749920,429308.3289682444,4587430.515495151
+Hotel Occidental Atenea Mar - HB-004204,Passeig de Garcia Fària,37,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,935316040,434118.2100133685,4583734.455493709
+Hotel SB Icària Barcelona - HB-004247,Av Icària,195,la Vila Olímpica del Poblenou,Sant Martí,932218200,433069.09140100516,4582755.427837783
+Hotel NH La Maquinista - HB-004210,C Sao Paulo,33,el Bon Pastor,Sant Andreu,932745370,433156.9345389155,4587833.938347267
+Hotel Silken Concordia - HB-004220,Av Paral.lel,115,el Poble-sec,Sants-Montjuïc,933249180,429854.3000708646,4580708.129165897
+Hotel Medinaceli - HB-004353,Pl Duc de Medinaceli,8,el Barri Gòtic,Ciutat Vella,934817725,431320.2987411787,4581068.044953567
+Hotel Market - HB-004360,Ptge Sant Antoni Abat,10,Sant Antoni,Eixample,933251205,429809.7234017943,4581199.654358672
+Hotel Sixtytwo Barcelona - HB-004200,Pg Gràcia,62,la Dreta de l'Eixample,Eixample,932724180,430151.34576516284,4582717.027622312
+Hotel Pestana Arena Barcelona - HB-004345,C Consell de Cent,51,Hostafrancs,Sants-Montjuïc,932893921,428591.37430339574,4580938.028657236
+Hotel Peninsular - HB-003154,C Sant Pau,34,el Raval,Ciutat Vella,933023138,430807.4576943178,4581230.824260125
+Hotel Paral·lel - HB-003901,C Poeta Cabanyes,5,el Poble-sec,Sants-Montjuïc,933291104,430257.6451542794,4580680.335520685
+Hotel Ilunion Bel Art - HB-004259,C Lepant,406,el Baix Guinardó,Horta-Guinardó,934335440,430589.4231144139,4584623.805115184
+Leonardo Hotel Barcelona Las Ramblas - HB-000085,C Junta de Comerç,8,el Raval,Ciutat Vella,933188970,430695.98476688284,4581285.621702439
+Hotel Bonanova Park - HB-003296,Capità Arenas,51,Sarrià,Sarrià-Sant Gervasi,932040900,426832.7280065283,4582765.966443037
+Hotel Pere IV - HB-004233,C Pallars,128,el Parc i la Llacuna del Poblenou,Sant Martí,933209650,432487.6289732881,4583147.719895191
+Aparthotel Bertran - HB-003804,C Bertran,150,el Putxet i el Farró,Sarrià-Sant Gervasi,932127550,428101.4272690967,4584674.905097229
+Hotel Regina - HB-000018,C Bergara,2,la Dreta de l'Eixample,Eixample,933013232,430431.9001989843,4581941.166250452
+Hotel H10 Montcada - HB-004328,Via Laietana,24,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,932688570,431309.06871085806,4581751.347282206
+H10 Universitat - HB-004211,Rda Universitat,21,la Dreta de l'Eixample,Eixample,933427850,430324.4762231963,4582037.962283768
+Hotel 1898 - HB-004349,C Rambla,109,el Raval,Ciutat Vella,935529552,430702.1796286808,4581664.153009295
+Hotel H10 Marina Barcelona - HB-004190,Av Bogatell,64,la Vila Olímpica del Poblenou,Sant Martí,933097917,432486.4070728449,4582710.678158534
+Hotel Pelayo - HB-003847,C Pelai,9,la Dreta de l'Eixample,Eixample,933023727,430315.46633302904,4581930.527330296
+Hotel Lleó - HB-000088,C Pelai,22,el Raval,Ciutat Vella,933181312,430307.518414653,4581909.464534198
+Hotel Silken Sant Gervasi - HB-004054,C Sant Gervasi de Cassoles,26,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,932531740,428020.10219409876,4584043.072241018
+Hotel Vincci Marítimo - HB-004286,Carrer de Llull,340,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,933562600,434182.26326832327,4584362.019386004
+Hotel Le Meridien Barcelona - HB-000039,C Rambla,111,el Raval,Ciutat Vella,933186200,430679.4888403745,4581707.348583087
+NH Collection Barcelona Gran Hotel Calderón - HB-002059,Rbla Catalunya,26,la Dreta de l'Eixample,Eixample,933010000,430282.9715687351,4582317.4535480095
+Hotel Condal - HB-000051,C Boqueria,23,el Barri Gòtic,Ciutat Vella,933181882,430955.920206844,4581445.064199437
+Hotel Vilamarí - HB-004177,C Vilamarí,34,Sant Antoni,Eixample,932890909,429127.11109715916,4580922.998916698
+Hotel Sansi Diputació - HB-004194,C Diputació,234,la Dreta de l'Eixample,Eixample,933040707,430147.0299130797,4582206.554602046
+Hotel Jazz - HB-004227,C Pelai,3,la Dreta de l'Eixample,Eixample,935529696,430259.030880152,4581937.675248905
+Hotel DingDong Putxet - HB-000328,C Ballester,11,el Putxet i el Farró,Sarrià-Sant Gervasi,932120350,428507.708429676,4584172.749079847
+Hotel HCC Taber - HB-000317,C Aragó,256,la Dreta de l'Eixample,Eixample,934873887,430034.90094953455,4582463.6010707915
+Hotel Regàs - HB-003850,C Regàs,10,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,932380092,429122.9876222744,4583367.698060959
+Hotel Evenia Rosselló - HB-004183,C Rosselló,191,l'Antiga Esquerra de l'Eixample,Eixample,932386355,429355.85250672075,4582666.974945373
+Hotel Continental - HB-000053,C Rambla,138,el Barri Gòtic,Ciutat Vella,934457657,430656.744033181,4581844.702237997
+Hotel Catalonia Albéniz - HB-003939,C Aragó,591,el Camp de l'Arpa del Clot,Sant Martí,932652626,431952.3689234745,4584389.843673437
+Hotel Grupotel Gravina - HB-003865,C Gravina,12,el Raval,Ciutat Vella,933016868,430254.91393157607,4581882.663784888
+Hotel Ramblas Barcelona - HB-002912,C Rambla,33,el Raval,Ciutat Vella,933015700,431005.88477851346,4581164.960943552
+Hotel Chi - HB-004736,G.V. Corts Catalanes,455,la Nova Esquerra de l'Eixample,Eixample,933257804,429284.0965112681,4581205.502192049
+Hotel Omnium - HB-004694,C Bruc,42,la Dreta de l'Eixample,Eixample,933172124,430867.3248340649,4582584.579061666
+Hotel chic&basic Zoo - HB-002223,Pg Picasso,22,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,932954652,431733.93251971336,4582051.1424426725
+Hotel Continental Palacete - HB-004102,Rbla Catalunya,30,la Dreta de l'Eixample,Eixample,934457657,430239.02198682807,4582361.282111296
+Hotel Catalonia Roma - HB-003873,Av Roma,31,la Nova Esquerra de l'Eixample,Eixample,934106633,428582.10027301527,4581505.921112339
+Hotel Ohla Eixample - HB-004718,C Còrsega,289,la Dreta de l'Eixample,Eixample,937377977,429480.0952517805,4582893.453761802
+Hotel Sansi Pedralbes - HB-004086,Av Pearson,1,Pedralbes,Les Corts,932063880,425727.40873114613,4582843.735443351
+Gran Hotel Havana - HB-003916,G.V. Corts Catalanes,647,la Dreta de l'Eixample,Eixample,933417000,430796.4635018803,4582686.134056361
+Hotel Hilton Barcelona - HB-003892,Av Diagonal,589,les Corts,Les Corts,934957777,427379.8327908888,4582296.645139955
+Aparthotel Arai - HB-004508,C Avinyó,30,el Barri Gòtic,Ciutat Vella,933203950,431213.2837213088,4581363.605046948
+Hotel Catalonia La Pedrera - HB-004094,C Còrsega,368,la Dreta de l'Eixample,Eixample,932081919,429981.8652787121,4583358.929325409
+Aparthotel Casa Gràcia - HB-004672,Pg Gràcia,114,la Vila de Gràcia,Gràcia,931874497,429724.54381581885,4583182.694991105
+Hotel-Apartament Murmuri Residence - HB-004674,Ptge Concepció,13,la Dreta de l'Eixample,Eixample,934922244,429777.4633635166,4582885.935897026
+Hotel Acta Bcn 40 - HB-004468,C Joaquín Costa,40,el Raval,Ciutat Vella,933185100,430248.0330625834,4581573.396801631
+Hotel Brummel - HB-004668,C Nou de la Rambla,174,el Poble-sec,Sants-Montjuïc,931258622,430294.5428631298,4580353.796716197
+Hotel Od Barcelona - HB-004762,C Aragó,300,la Dreta de l'Eixample,Eixample,932150899,430389.69342916494,4582811.756747286
+Hotel Garbí Mil·lenni - HB-004157,Rda Sant Pau,14,el Raval,Ciutat Vella,934414177,430340.24131913285,4580834.519032576
+Hotel Bcn Urban Gran Ducat - HB-004122,Rda Sant Pere,15,la Dreta de l'Eixample,Eixample,933426370,430754.12700378546,4582246.616336019
+Hotel H10 Racó del Pi - HB-004164,C Pi,7,el Barri Gòtic,Ciutat Vella,933426190,430931.96039907297,4581643.401258843
+Hotel Apartament Murmuri Residence Mercader - HB-004738,Ptge Mercader,13,la Dreta de l'Eixample,Eixample,935500600,429783.0783551064,4582664.740056167
+Hotel H10 Cubik - HB-004696,Via Laietana,69,el Barri Gòtic,Ciutat Vella,933202200,430868.8249046603,4582170.013106958
+Eurostars Grand Marina Hotel - HB-004155,Moll Barcelona,,el Raval,Ciutat Vella,936039000,431432.68276736507,4580484.449673422
+Hotel Bagués - HB-004440,C Rambla,105,el Raval,Ciutat Vella,933435000,430733.41834079154,4581587.385764902
+Hotel Cuatro Naciones - HB-000071,C Rambla,40,el Barri Gòtic,Ciutat Vella,933173624,431029.5595431845,4581190.001703964
+Hotel Royal Ramblas - HB-001934,C Rambla,117,el Raval,Ciutat Vella,933019400,430651.37110297394,4581759.502068356
+Hotel Lloret Ramblas - HB-000025,C Rambla,125,el Raval,Ciutat Vella,933173366,430621.35338369414,4581813.308537101
+Hotel Mosaic -  HB-004802,Rbla Catalunya,84,la Dreta de l'Eixample,Eixample,935220420,429909.3761231202,4582686.504870027
+Hotel Acta Antibes - HB-000241,C Diputació,394,el Fort Pienc,Eixample,932326211,431292.8525468223,4583326.7559081325
+Hotel Reding Croma - HB-003893,C Gravina,5,el Raval,Ciutat Vella,934121097,430241.4390653162,4581869.399911546
+Hotel Sant Agustí - HB-000030,Pl Sant Agustí,3,el Raval,Ciutat Vella,933181658,430733.0443968088,4581332.969247907
+Hotel Two by Axel - HB-004688,C Calàbria,90,Sant Antoni,Eixample,935392313,429431.79107966245,4581184.364429233
+Hotel Call - HB-001122,C Arc de Sant Ramon del Call,4,el Barri Gòtic,Ciutat Vella,933021123,431077.9860038003,4581524.491449147
+Hotel Advance - HB-004450,C Sepúlveda,180,Sant Antoni,Eixample,932892892,430003.5444233145,4581651.173992039
+Hotel Eurostars Anglí - HB-004300,C Anglí,60,Sarrià,Sarrià-Sant Gervasi,932069944,426704.9790052535,4583880.656542476
+Hotel Barcelona Universal - HB-004114,Av Paral.lel,76,el Raval,Ciutat Vella,935677447,430451.7502540079,4580741.611962488
+Grand Hotel Central Barcelona- HB-004280,Via Laietana,30,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,932957900,431244.3513265111,4581817.391624524
+Barcelona City Hotel - HB-003925,C Aragó,281,la Dreta de l'Eixample,Eixample,934879762,430280.35650476394,4582748.870338276
+Hotel Europark - HB-003249,C Aragó,325,la Dreta de l'Eixample,Eixample,934579205,430625.68507888576,4583087.462106158
+Hotel NH Barcelona del Mar - HB-004161,Carrer d'Espronceda,6,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,935029700,433970.75246442034,4583640.691379466
+Ayre Hotel Gran Via - HB-004314,G.V. Corts Catalanes,322,la Font de la Guatlla,Sants-Montjuïc,933675500,428692.93239722244,4580554.230425302
+Hotel Le Palacete - HB-004768,C Legalitat,10,la Vila de Gràcia,Gràcia,932845025,429756.025264996,4584356.127553208
+Capri by Fraser Hotel Residences - HB-004373,C Sancho de Ávila,32,el Parc i la Llacuna del Poblenou,Sant Martí,933208735,432195.4357959246,4583230.698027298
+Hotel La Casa del Sol - HB-004855,C Maspons,11,la Vila de Gràcia,Gràcia,932753941,429482.90906729293,4583643.384447229
+Hotel Amrey Sant Pau - HB-004046,C Sant Antoni Maria Claret,173,el Guinardó,Horta-Guinardó,934335151,431292.6101985742,4585044.269159299
+Hotel H10 Itaca - HB-004151,Av Roma,22,la Nova Esquerra de l'Eixample,Eixample,932265594,428547.07163035666,4581426.871876443
+Hotel HLG Citypark Pelai - HB-004236,C Pelai,1,la Dreta de l'Eixample,Eixample,933427020,430224.18921786465,4581942.399195621
+Hotel Rívoli Ramblas - HB-003878,C Rambla,128,el Barri Gòtic,Ciutat Vella,934817676,430700.6946249094,4581752.552146294
+Hotel H10 Casanova - HB-004363,G.V. Corts Catalanes,559,l'Antiga Esquerra de l'Eixample,Eixample,933964800,429844.6709463343,4581754.309952589
+Hotel Astoria - HB-000017,C París,203,l'Antiga Esquerra de l'Eixample,Eixample,932098311,429235.26464186865,4582842.004212575
+BCN Urban Hotels Gran Ronda - HB-004557,Rda Sant Antoni,49,Sant Antoni,Eixample,933271800,430059.3508849808,4581630.959200872
+Abba Sants Hotel - HB-004078,C Numància,32,Sants,Sants-Montjuïc,936003100,428095.330988024,4581587.38321412
+Hotel Aranea - HB-004230,C Consell de Cent,444,el Fort Pienc,Eixample,932477474,431100.964411104,4583328.020856755
+Hotel NH Entenza - HB-003972,C Equador,20,les Corts,Les Corts,934193636,428138.9894896981,4581933.299847633
+Nobu Hotel Barcelona - HB-004350,Av Roma,2,Hostafrancs,Sants-Montjuïc,934936026,428290.25216047897,4581270.945343928
+Hotel Catalonia Park Güell - HB-003790,Pg Mare de Déu del Coll,10,el Coll,Gràcia,932191204,428529.99901420326,4585109.69194908
+Hotel Casa Sagnier- HB-004374,Rbla Catalunya,104,la Dreta de l'Eixample,Eixample,935 959 545,429746.6566710263,4582847.002270452
+B-Hotel - HB-004319,G.V. Corts Catalanes,389,la Nova Esquerra de l'Eixample,Eixample,935529500,428968.7926403704,4580905.267056555
+Hotel Casa Fuster - HB-004219,Pg Gràcia,132,la Vila de Gràcia,Gràcia,932553000,429616.0488488654,4583284.14397895
+Hotel Spa Senator Barcelona - HB-004145,C Cardenal Reig,11,la Maternitat i Sant Ramon,Les Corts,932609900,425899.6074660398,4580989.759572908
+Hotel Alba - HB-003411,C Hospital,83,el Raval,Ciutat Vella,934428367,430603.4186618997,4581309.8114473475
+Hotel Balmoral - HB-002606,Via Augusta,5,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,932178700,429377.03921294777,4583085.639865464
+Hotel Fornos - HB-000011,C Rambla,44,el Barri Gòtic,Ciutat Vella,933182024,431008.82773755695,4581225.140356758
+Hotel Granvía - HB-000012,G.V. Corts Catalanes,642,la Dreta de l'Eixample,Eixample,933181900,430568.89077459206,4582390.495894153
+Hotel Nouvel - HB-000078,C Santa Anna,18,el Barri Gòtic,Ciutat Vella,933018274,430732.64629176795,4581861.958085163
+Hotel Exe Ramblas Boqueria - HB-004339,C Rambla,91,el Raval,Ciutat Vella,933435461,430780.5898971491,4581514.685484091
+Hotel Sofía - HB-003487,Pl Pius XII,4,la Maternitat i Sant Ramon,Les Corts,935081000,426685.834591996,4582041.206482655
+Hotel Attica21 Barcelona Mar - HB-004340,Carrer de Provençals,10,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,932665200,434153.26760828873,4584063.983286744
+Hotel The Hoxton- HB-004207,Av Diagonal,205,el Parc i la Llacuna del Poblenou,Sant Martí,,432322.4214243451,4583915.163376713
+Hotel Pulitzer - HB-004213,C Bergara,8,la Dreta de l'Eixample,Eixample,934816767,430468.4808396877,4581959.070083267
+Hotel Sunotel Junior - HB-004278,Av Sarrià,9,la Nova Esquerra de l'Eixample,Eixample,933633501,428714.74979711196,4582385.080561163
+Hotel Cram - HB-004231,C Aribau,54,l'Antiga Esquerra de l'Eixample,Eixample,932167700,429769.0985923795,4582178.889793699
+Hotel Catalonia Gran Via - HB-004524,G.V. Corts Catalanes,550,Sant Antoni,Eixample,932360000,429799.8934059467,4581637.798080351
+Hotel Olivia Plaza - HB-004389,Pl Catalunya,19,el Barri Gòtic,Ciutat Vella,933158700,430689.7426865301,4581970.25701953
+Hotel Gran Derby Suite - HB-003751,C Loreto,28,les Corts,Les Corts,934452544,428289.1379279796,4582412.595202701
+Hotel NH Collection Constanza - HB-004287,C Deu i Mata,69,les Corts,Les Corts,932811500,427790.54379951226,4582293.766256012
+Hotel Àmbit Barcelona - HB-004669,C Roger de Llúria,17,la Dreta de l'Eixample,Eixample,937075150,430757.2559265167,4582474.306115045
+Hotel Ibis Meridiana - HB-004159,Pg Andreu Nin,9,Porta,Nou Barris,932768310,431628.6784524923,4587419.264081522
+We Boutique Hotel - HB-004623,Rda Sant Pere,70,la Dreta de l'Eixample,Eixample,932503991,431357.9160824928,4582503.740950323
+Hotel Cortes - HB-000319,C Santa Anna,25,el Barri Gòtic,Ciutat Vella,933179112,430743.0721854834,4581885.921853444
+Hotel Moderno - HB-000041,C Hospital,11,el Raval,Ciutat Vella,933014224,430826.50947616185,4581390.90370159
+Hotel Gaudí - HB-001927,C Nou de la Rambla,12,el Raval,Ciutat Vella,933179032,430932.62649280543,4581155.292022967
+Hotel Wilson Boutique- HB-002460,Av Diagonal,568,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,932092511,428943.2704696086,4582888.917693671
+Hotel Zenit Borrell - HB-004214,C Comte Borrell,208,la Nova Esquerra de l'Eixample,Eixample,934525566,429052.8616015624,4581954.786830965
+Hotel Petit Palace Boqueria Garden - HB-004310,C Boqueria,10,el Barri Gòtic,Ciutat Vella,933020753,430930.30545916635,4581429.060350402
+Hotel Mercure Barcelona Condor - HB-003342,Via Augusta,127,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,932094511,428549.5211629769,4583515.7564961305
+Hotel Petit Palace Museum - HB-004308,C Diputació,250,la Dreta de l'Eixample,Eixample,933040087,430210.6302819627,4582268.822007603
+Hotel Ciutat de Barcelona - HB-004456,C Princesa,33,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,932697475,431528.05054738524,4581921.558665565
+Hotel Mesón de Castilla Atiram - HB-000042,C Valldonzella,5,el Raval,Ciutat Vella,933182182,430313.2123812967,4581803.27457165
+Hotel Golden Tulip - HB-004757,C Àvila,135,el Parc i la Llacuna del Poblenou,Sant Martí,934 833 876,432374.0490060076,4583500.952426933
+Hotel Arya by Ona Hotels - HB-004761,C Sants,383,Sants - Badal,Sants-Montjuïc,931317500,426811.44063693937,4580819.001438415
+Hotel Eurostars Monumental - HB-004478,C Consell de Cent,498,el Fort Pienc,Eixample,932320288,431336.8650719029,4583558.379657815
+Expo Hotel Barcelona - HB-003580,C Mallorca,1,Hostafrancs,Sants-Montjuïc,936003020,428334.7077414836,4581208.806959857
+Hotel Serhs Carlit - HB-004160,C Diputació,383,la Dreta de l'Eixample,Eixample,935052600,431106.25639086554,4583175.701343641
+Best Western Plus Hotel Alfa Aeropuerto - HB-003859,C K Zona Franca,2,la Marina del Prat Vermell,Sants-Montjuïc,933362564,425783.6857818414,4575604.465157515
+Hotel Turín - HB-002532,C Pintor Fortuny,9,el Raval,Ciutat Vella,933024812,430616.1014749212,4581618.515437034
+Gallery Hotel - HB-003915,C Rosselló,249,la Dreta de l'Eixample,Eixample,934159911,429722.17988837167,4582945.277306637
+Hotel-Apartament República - HB-004493,C Pujades,120,el Poblenou,Sant Martí,934864390,432778.214131114,4583240.039052524
+Hotel NH Les Corts - HB-003666,Trav Corts,292,les Corts,Les Corts,933220811,427805.680685848,4582137.812780968
+Hotel Onix Liceo - HB-004333,C Nou de la Rambla,36,el Raval,Ciutat Vella,934816441,430853.9452781591,4581056.44997168
+Hotel  Negresco Princess - HB-004699,C Roger de Llúria,16,la Dreta de l'Eixample,Eixample,932150052,430830.2332260547,4582431.360548998
+Hotel Boutique H10 Catalunya Plaza - HB-003965,Pl Catalunya,7,la Dreta de l'Eixample,Eixample,933177171,430486.6446434794,4582054.1351593295
+Hotel Coronado - HB-003443,C Nou de la Rambla,134,el Poble-sec,Sants-Montjuïc,934423448,430443.8093726631,4580541.230917041
+Hotel Guitart Grand Passage - HB-003896,C Muntaner,212,l'Antiga Esquerra de l'Eixample,Eixample,932010306,428972.22520632227,4582803.1845361395
+Aparthotel Atenea Barcelona - HB-003991,C Joan Güell,207,les Corts,Les Corts,934906640,427218.99341767526,4582003.199968725
+Hotel Denit - HB-004393,C Estruc,24,el Barri Gòtic,Ciutat Vella,935454000,430821.85738522245,4582053.153237668
+Hotel Colonial Barcelona - HB-004377,Via Laietana,3,el Barri Gòtic,Ciutat Vella,933192252,431493.8169596208,4581531.365466574
+Hotel Barcelona House - HB-004499,C Escudellers,19,el Barri Gòtic,Ciutat Vella,933437167,431111.54674220236,4581208.596539184
+Hotel Catalonia Avinyó - HB-004430,C Lleona,12,el Barri Gòtic,Ciutat Vella,932702170,431123.37858856004,4581397.133701398
+Hotel Casa Maca Guest House - HB-004641,C Bruc,146,la Dreta de l'Eixample,Eixample,644200680,430261.0455980112,4583204.502889442
+Euro Hotel Barcelona Diagonal Port - HB-004195,Carrer de Lope de Vega,4,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,932302000,433865.9965020309,4583539.919341892
+Hotel Eurostars Ramblas - HB-004555,C la Rambla,22,el Barri Gòtic,Ciutat Vella,932703696,431115.8447306624,4581060.865982041
+Hotel DO: Plaça Reial - HB-004530,Pl Reial,1,el Barri Gòtic,Ciutat Vella,934 813 666,431007.16674329614,4581275.90386094
+Hotel Yurbban Trafalgar - HB-004627,C Trafalgar,30,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,932680727,431113.147510023,4582266.543214918
+Hotel Ibis Barcelona Centro (Sagrada Familia) - HB-004593,C Nàpols,230,la Sagrada Família,Eixample,932080536,430828.3290083512,4583580.507338361
+Hotel HCC Lugano - HB-004598,Av Paral·lel,172,Sant Antoni,Eixample,935579797,429394.17353546945,4580755.3346092785
+Hotel Prisma - HB-000114,Av Josep Tarradellas,119,les Corts,Les Corts,934394207,428349.6783610041,4582311.904197989
+Hotel Husa L'Illa - HB-003973,Av Diagonal,555,les Corts,Les Corts,934942500,427715.1435128675,4582384.607353548
+Hotel Barceló Sants - HB-003954,Pl Països Catalans,,Sants,Sants-Montjuïc,935035300,428157.2394584265,4581248.971530161
+Ayre Hotel Caspe - HB-004182,C Casp,103,el Fort Pienc,Eixample,932467000,431407.59348731686,4583054.899583314
+Hotel Urquinaona - HB-001950,Rda Sant Pere,24,la Dreta de l'Eixample,Eixample,932681336,430955.26003606274,4582308.547772856
+Ako Suite Hotel - HB-004526,C Diputació,195,l'Antiga Esquerra de l'Eixample,Eixample,934533419,429852.8668261027,4581948.830056027
+Hotel Colón - HB-000049,Av Catedral,7,el Barri Gòtic,Ciutat Vella,933011404,431083.1918937134,4581814.834616666
+Hotel Front Maritim - HB-004149,Pg Garcia Fària,69,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,933034440,434310.3941115931,4583911.5628037695
+Hotel Ronda House - HB-003882,C Sant Erasme,19,el Raval,Ciutat Vella,933290004,430102.08651324594,4581420.467264045
+Hotel Lyon - HB-000859,C General Castaños,6,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,932689060,431836.0316145688,4581620.128669452
+Hotel Tres Torres Atiram - HB-004075,C Calatrava,32,les Tres Torres,Sarrià-Sant Gervasi,934177300,427275.1255442446,4583519.905184003
+Hotel Rekord - HB-003805,Muntaner,352,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,932001953,428431.2173461758,4583357.08601877
+Hotel The Level at Melia Barcelona Sky - HB-004532,C Lope de Vega,141,el Poblenou,Sant Martí,933672080,433218.51566931314,4584163.940128694
+Hotel Andante - HB-004488,Av Drassanes,23,el Raval,Ciutat Vella,934412545,430813.573701589,4580906.327428815
+Hotel Room Mate Pau - HB-004531,C Fontanella,5,la Dreta de l'Eixample,Eixample,900818320,430751.36506029684,4582102.477741923
+Hotel The Corner - HB-004737,C Muntaner,110,l'Antiga Esquerra de l'Eixample,Eixample,935542400,429485.85432479717,4582277.951768142
+Hotel Catalonia Eixample 1864 - HB-004249,C Roger de Llúria,60,la Dreta de l'Eixample,Eixample,932720050,430482.4535327337,4582787.360004382
+Gran Hotel La Florida - HB-004263,Ctra Vallvidrera al Tibidabo,83,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,932593000,426557.9038869122,4586388.6800604565
+Hotel SB Glow - HB-004760,C Badajoz,148,el Parc i la Llacuna del Poblenou,Sant Martí,935 147 000,432379.8459064096,4583716.325327449
+Yurbban Passage Hotel & Spa - HB-004755,C Trafalgar,26,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,938828977,431100.1686391081,4582252.229351941
+Hotel Catalonia Born - HB-004410,C Rec Comtal,16,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,932688600,431439.4403211859,4582351.359453653
+Hotel Ciutat Vella - HB-004398,C Tallers,66,el Raval,Ciutat Vella,934813799,430315.91034815356,4581836.663246371
+Hotel NH Diagonal Center - HB-004466,C Àlaba,94,el Parc i la Llacuna del Poblenou,Sant Martí,933090629,432469.4671290746,4583250.870885352
+Hotel NH Barcelona Barri Gòtic - HB-000329,C Ample,31,el Barri Gòtic,Ciutat Vella,933105100,431428.5356378257,4581317.800537743
+Hotel Flor Parks - HB-004026,C Rambla,70,el Barri Gòtic,Ciutat Vella,933429760,430928.567491827,4581352.282099411
+Hotel Alma Barcelona - HB-004465,C Mallorca,269,la Dreta de l'Eixample,Eixample,932164490,430051.32270056003,4582893.505879939
+Hotel Indigo Barcelona - Plaza Catalunya - HB-004554,G.V. Corts Catalanes,629,la Dreta de l'Eixample,Eixample,936026690,430632.4771287919,4582525.191592988
+Hotel Mímic - HB-004463,C Arc del Teatre,58,el Raval,Ciutat Vella,933299450,430841.21045951557,4580776.621700627
+Hotel The Serras - HB-004647,Pg Colom,9,el Barri Gòtic,Ciutat Vella,931691868,431504.8509020626,4581287.179852085
+Aparthotel BCN Montjuic - HB-004268,C Sant Fructuós,64,la Font de la Guatlla,Sants-Montjuïc,935035650,428425.36507430434,4580201.737810157
+Hotel Casa Maca Guest House 4 - HB-004640,C Bruc,146,la Dreta de l'Eixample,Eixample,644 200 680,430261.0455980112,4583204.502889442
+Hotel Condes de Barcelona - HB-003952,Pg Gràcia,73,la Dreta de l'Eixample,Eixample,934450000,430000.7222141606,4582788.406894788
+Hotel Praktik Bakery - HB-004606,C Provença,279,la Dreta de l'Eixample,Eixample,934880061,430052.9876448775,4583083.551026336
+Hotel Catalonia Square - HB-004596,Rda Sant Pere,9,la Dreta de l'Eixample,Eixample,933023386,430715.82537988096,4582228.144508412
+Hotel Ibis Barcelona Plaça Glories 22 - HB-004372,C Ciutat de Granada,99,el Parc i la Llacuna del Poblenou,Sant Martí,933007777,432655.9812475031,4583596.665549633
+Hotel Cotton House - HB-004691,G.V. Corts Catalanes,670,la Dreta de l'Eixample,Eixample,934505045,430763.9148397729,4582581.341072098
+Aparthotel Aramunt - HB-004446,C Muntaner,60,l'Antiga Esquerra de l'Eixample,Eixample,934510402,429707.1772208559,4582051.610022816
+Hotel Vincci Gala - HB-004592,Rda Sant Pere,32,la Dreta de l'Eixample,Eixample,935083200,431006.499532937,4582333.354541269
+Hotel H10 Urquinaona Plaza - HB-004591,Pl Urquinaona,2,la Dreta de l'Eixample,Eixample,932382040,430824.0483138525,4582296.7038616035
+Hotel Brustar Centric - HB-004505,Rda Sant Pere,60,la Dreta de l'Eixample,Eixample,932457844,431283.36481444247,4582467.670287118
+Hotel 4 Barcelona - HB-004552,C Doctor Trueta,164,el Poblenou,Sant Martí,933290954,433167.14638893434,4583053.07495343
+Hotel Catalonia Catedral - HB-004515,C Arcs,10,el Barri Gòtic,Ciutat Vella,933436775,430977.01192972425,4581796.292775955
+Hotel  Catalonia  Park Putxet - HB-003757,C Putxet,68,el Putxet i el Farró,Sarrià-Sant Gervasi,932125158,428470.0937609012,4584333.537503974
+Hotel & Spa Villa Olimpic@ Suites - HB-004383,C Pallars,121,el Parc i la Llacuna del Poblenou,Sant Martí,933569727,432480.5560373125,4583171.175664971
+Hotel W Barcelona - HB-004411,Pl Rosa dels Vents,1,la Barceloneta,Ciutat Vella,932952800,432258.0028452148,4579966.448897408
+Hotel Vincci Bit - HB-004482,C Josep Pla,69,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,931657420,434140.0496029884,4584747.340620619
+Hotel Acta Splendid - HB-004050,C Muntaner,2,Sant Antoni,Eixample,934512142,430020.7552395932,4581730.030226028
+Hotel Mercer Barcelona - HB-004504,C Lledó,7,el Barri Gòtic,Ciutat Vella,933107480,431347.6503745078,4581561.589141954
+Hotel Gótico - HB-001219,C Jaume I,14,el Barri Gòtic,Ciutat Vella,933152211,431290.19491392025,4581655.470214049
+Hotel-Apartament Casa Saltor - HB-004648,G.V. Corts Catalanes,558,Sant Antoni,Eixample,933185150,429827.1721351852,4581664.473825679
+Kiwidestiny Apartaments & Suites - HB-004673,Av Diagonal,578,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,934143873,428791.3109567845,4582839.622142613
+Hotel Ayre Hotel Rosello - HB-004513,C Rosselló,390,la Sagrada Família,Eixample,936009200,430858.7766205503,4584028.191978369
+Hotel Bestprice Diagonal - HB-004636,Av Diagonal,70,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,935991271,433942.9485599181,4584530.545696046
+Hotel La Ciudadela - HB-004248,Pg Lluís Companys,2,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,933099557,431746.24734463403,4582324.105781647
+Hotel Granados 83 - HB-004239,C Enric Granados,83,l'Antiga Esquerra de l'Eixample,Eixample,934929670,429510.7490144507,4582604.334588839
+Hotel Olivia Balmes - HB-004607,C Balmes,117,l'Antiga Esquerra de l'Eixample,Eixample,932144163,429666.21649682603,4582636.166310651
+Hotel Room Mate Carla - HB-004376,C Mallorca,288,la Dreta de l'Eixample,Eixample,900818320,430289.01334877044,4583095.762955948
+Hotel Travessera - HB-002043,Trav Dalt,121,la Salut,Gràcia,932132454,429711.2095926226,4584871.882515065
+Hotel NH Barcelona Ramblas - HB-004369,C Hospital,26,el Raval,Ciutat Vella,931516100,430776.3889653066,4581381.933778881
+Hotel Catalonia Barcelona Golf - HB-004084,Trav Gràcia,72,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,932386828,429062.44624702726,4583194.557737142
+BCN Urban Hotels del Comte - HB-004038,C Diputació,142,la Nova Esquerra de l'Eixample,Eixample,933231258,429514.94018673804,4581587.474512192
+Axel Hotel Barcelona - HB-004327,C Aribau,33,l'Antiga Esquerra de l'Eixample,Eixample,933239393,429802.6572797864,4582113.689436881
+Hotel Aneto - HB-002253,C Carme,38,el Raval,Ciutat Vella,933019989,430582.6158237505,4581505.657531609
+Hotel Catalonia Passeig de Gràcia - HB-004535,G.V. Corts Catalanes,644,la Dreta de l'Eixample,Eixample,932702735,430582.75563702645,4582404.092764332
+Hotel Catalonia Mikado - HB-003754,Pg Bonanova,58,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,932114166,427038.9467587435,4583889.979523772
+Hotel Picasso K + K - HB-004579,Pg Picasso,26,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,935478600,431783.36404943164,4582000.716944711
+Musik Boutique Hotel - HB-004538,C Sant Pere Més Baix,62,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,932225544,431310.42461408087,4582160.816286702
+Hotel H Top BCN City - HB-003989,Trav Gràcia,380,el Baix Guinardó,Horta-Guinardó,934360146,430899.01408905,4584713.076308151
+Hotel ICON BCN by Petite Palace - HB-004309,C Roger de Llúria,21,la Dreta de l'Eixample,Eixample,933024717,430733.56515178306,4582498.556873579
+Leonardo Hotel Barcelona Gran Via - HB-004212,C Diputació,100,la Nova Esquerra de l'Eixample,Eixample,935534760,429335.6799663947,4581411.767189629
+Hotel Barcelona Center - HB-004296,C Balmes,103,l'Antiga Esquerra de l'Eixample,Eixample,932730000,429713.8300442661,4582587.398796348
+Hotel 54 Barceloneta - HB-004371,Pg Joan Borbo C Barcelona,54,la Barceloneta,Ciutat Vella,932250054,432168.07552445517,4580935.757416039
+Hotel Ibis Styles Barcelona Centre - HB-004728,C Provença,340,la Dreta de l'Eixample,Eixample,934573587,430257.96661771025,4583253.816407773
+Hotel Brumell - HB-004690,C Nou de la Rambla,174,el Poble-sec,Sants-Montjuïc,931258622,430294.5428631298,4580353.796716197
+Hotel Laumon - HB-004459,C Monlau,8,la Sagrera,Sant Andreu,932435279,432364.55558451125,4586057.763496073
+Hotel Inglés - HB-000034,C Boqueria,19,el Barri Gòtic,Ciutat Vella,933173770,430932.54843563755,4581437.446269015
+Hotel Catalonia Castellnou - HB-003785,C Castellnou,61,les Tres Torres,Sarrià-Sant Gervasi,932030550,427157.3957705017,4583139.27987135
+Hotel Vincci Mae - HB-000069,Av Diagonal,596,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,937076177,428608.79374306486,4582780.465681245
+Hotel Ronda Lesseps - HB-004338,C Ballester,77,Vallcarca i els Penitents,Gràcia,932544300,428778.7307310981,4584483.794103953
+Hotel chic&basic Lemon - HB-004087,C Pelai,6,el Raval,Ciutat Vella,933426666,430197.4634815499,4581923.661372955
+Hotel Boutique Serennia Exclusive Rooms - HB-004704,Rda Universitat,9,la Dreta de l'Eixample,Eixample,932157255,430226.35318689514,4581990.300728626
+Hotel Well & Come - HB-004731,C Girona,158,la Dreta de l'Eixample,Eixample,937379799,430251.51864891057,4583405.581926077
+Hotel Sunotel Aston - HB-004298,C París,101,la Nova Esquerra de l'Eixample,Eixample,933637070,428720.9867464702,4582337.977022073
+Aparthotel Mariano Cubí - HB-004326,C Marià Cubí,62,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,932099699,428897.667823549,4583311.216564588
+Hotel Barcelona Catedral - HB-004271,C Capellans,4,el Barri Gòtic,Ciutat Vella,933042255,431025.85745311226,4581804.914701781
+Hotel Barceló Raval - HB-004337,Rbla Raval,17,el Raval,Ciutat Vella,933201490,430553.62417563854,4581166.431836589
+Hotel Sagrada Família - HB-004201,C Còrsega,541,la Sagrada Família,Eixample,934366115,430757.52557917486,4584149.711772588
+Abba Rambla Hotel - HB-004380,Rbla Raval,4,el Raval,Ciutat Vella,935055400,430422.16244332347,4581217.412311952
+Hotel Catalonia Rigoletto - HB-004346,C Sabino Arana,22,la Maternitat i Sant Ramon,Les Corts,933391999,426866.20386238385,4581932.374583725
+Hotel The Mirror Barcelona - HB-004490,C Còrsega,255,l'Antiga Esquerra de l'Eixample,Eixample,932028686,429319.6208439694,4582737.795246867
+Hotel Grums Barcelona - HB-004581,C Palaudàries,26,el Poble-sec,Sants-Montjuïc,934420666,430763.9272729329,4580475.947620107
+Hotel Catalonia Port - HB-004432,C Ample,1,el Barri Gòtic,Ciutat Vella,933424244,431328.74464631925,4581130.43334631
+Hotel SB Diagonal Zero - HB-004387,Pl Llevant,1,el Besòs i el Maresme,Sant Martí,935078000,434756.21061464044,4584766.664551605
+Hotel Acta Voraport - HB-004893,C Ramon Turró,196,el Poblenou,Sant Martí,935955560,433306.13797385554,4583378.0218111
+Hotel Yurbban Ramblas Boutique - HB-004883,C Rambla,129,el Raval,Ciutat Vella,93 317 48 98,430608.46850412874,4581836.692306261
+Hotel Exe Plaza Catalunya- HB-004828,Rda Universitat,18,la Dreta de l'Eixample,Eixample,932408419,430393.0425571435,4582035.770319282
+Hotel  Almanac - HB-004806,G.V. Corts Catalanes,619,la Dreta de l'Eixample,Eixample,930187000,430552.3149241252,4582446.586343472
+Hotel The Barcelona Edition - HB-004837,Av Francesc Cambó,14,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,936263330,431252.21122577286,4581936.461464158
+Hotel Occidental Diagonal 414 - HB-004911,Avinguda Diagonal,414,la Dreta de l'Eixample,Eixample,93 208 90 00,430185.092,4583287.871
+Hotel Praktik Èssens - HB-004857,Pg Gràcia,24,la Dreta de l'Eixample,Eixample,933428730,430434.1290806222,4582408.849687372
+Hotel REC Barcelona - HB-004769,C Rec,19,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,935569960,431628.77156298066,4581947.616431661
+Aparthotel Mayerling Abamita - HB-004726,C Ausiàs Marc,25,la Dreta de l'Eixample,Eixample,637834836,431034.7792232621,4582503.159890241
+Hotel Jaume I - HB-000371,C Jaume I,11,el Barri Gòtic,Ciutat Vella,932693074,431260.9532011838,4581640.874350552
+Hotel Soho House -  HB-004750,Pl Duc de Medinaceli,4,el Barri Gòtic,Ciutat Vella,932204600,431378.2761714352,4581097.449678319
+Hotel Ibis Styles Barcelona City Bogatell - HB-004742,C Llull,71,el Parc i la Llacuna del Poblenou,Sant Martí,934833748,432571.1652131942,4582889.896427002
+Hotel Boutique Mirlo Barcelona  - HB-004948,Avinguda del Tibidabo,32,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,93 142 59 29,427690.82447885,4585031.525217961
+Hotel Exe Laietana Palace - HB-004101,Via Laietana,17,el Barri Gòtic,Ciutat Vella,932687940,431382.1700217455,4581645.725327837
+Hotel Occidental Barcelona 1929 - HB-004905,Carrer de la Creu Coberta,20,Hostafrancs,Sants-Montjuïc,936268844,428726.3880258787,4580771.282313451
+Alimara Barcelona Hotel - HB-004010,C Berruguete,126,la Vall d'Hebron,Horta-Guinardó,934270000,428762.86229698564,4587263.901003956
+Midmost Hotel - HB-004058,C Pelai,14,el Raval,Ciutat Vella,934922244,430265.49882199056,4581914.937472126
+Hotel Antiga Casa Buenavista,Ronda de Sant Antoni,84,el Raval,Ciutat Vella,93 3303030,430098.095,4581697.297
+Hotel Via Augusta - HB-000098,Via Augusta,63,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,932179250,429066.3031409374,4583520.075562794
+Hotel Médicis - HB-003917,C Castillejos,340,el Baix Guinardó,Horta-Guinardó,934500053,430891.0481745127,4584673.660690833
+Hotel Caledonian - HB-004002,G.V. Corts Catalanes,574,Sant Antoni,Eixample,934530200,429921.67019715597,4581757.361938776
+Hotel Raval House - HB-001213,C Hospital,101,el Raval,Ciutat Vella,933437167,430515.50852333196,4581277.365745975
+Hotel Onix Rambla - HB-004162,Rbla Catalunya,24,la Dreta de l'Eixample,Eixample,933427980,430301.48039258306,4582299.35272844
+Hotel Nuevo Triunfo - HB-004090,C Cabanes,34,el Poble-sec,Sants-Montjuïc,934425933,430589.2989623037,4580519.24916155
+Hotel Ilunion Auditori - HB-004283,C Sicília,166,el Fort Pienc,Eixample,932437600,431550.46810336213,4583033.031825587
+Hotel del Mar - HB-002726,Pla Palau,19,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,933193302,431774.2852399872,4581496.228866218
+Hotel Boutique 2015 - HB-004767,Rda Universitat,9,la Dreta de l'Eixample,Eixample,932157255,430226.35318689514,4581990.300728626
+Hotel Hilton Diagonal Mar - HB-004202,Passeig del Taulat,262,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,935070707,434671.37651453994,4584375.422350126
+Hotel Margot House - HB-004653,Pg Gràcia,46,la Dreta de l'Eixample,Eixample,932720076,430263.05670477607,4582595.022835685
+Hotel TOC Hostel Barcelona - HB-004629,G.V. Corts Catalanes,580,Sant Antoni,Eixample,934534425,429976.2416554023,4581811.37442298
+Hotel Paxton Barcelona - HB-004941,Carrer de Llull,156,el Poblenou,Sant Martí,934 45 49 90,433144.743,4583404.429
+Hotel Travelodge Barcelona Poblenou - HB-004514,C Llull,170,el Poblenou,Sant Martí,936241802,433215.18583832844,4583475.205845213
