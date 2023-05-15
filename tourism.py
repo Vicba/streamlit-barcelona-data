@@ -164,5 +164,5 @@ def app():
     #########################################################################################################################################################
 
     st.write(
-        "Need to find more information about the city of Barcelona? Here are the locations of some tourist information offices. clicke here!"
+        "Need to find more information about the city of Barcelona? Here are the locations of some tourist information offices. [clicke here!](https://www.barcelonaturisme.com/wv3/en/)"
     )

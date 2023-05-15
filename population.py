@@ -38,9 +38,16 @@ def app():
     st.title("Population")
     st.subheader("The Raw Data")
 
+    st.write("The raw data looks like this:")
     st.write(df.head())
 
     ###################################################################################################################################
+
+    st.write(
+        "so now we have an idea of what we’re working with, dataset of Barcelona population in 2013-2017 years by district, neighbourhood, gender and age."
+    )
+
+    st.write("Lets see the population of Barcelona year over year.")
 
     st.subheader("Population over the years")
 
@@ -53,6 +60,13 @@ def app():
         title="Population Change From 2013 To 2017",
     )
     st.plotly_chart(fig)
+
+    st.write(
+        "In 2014 the population decreased a little, but in next few years comeback and eventually increased by 2.5% in 2017.",
+        "With a total population of 1,620,809 in 2017, Barcelona is the second most populous city in Spain, behind Madrid, and the tenth-most populous municipality in the European Union.",
+    )
+
+    st.write("Lets see the population by age.")
 
     ###################################################################################################################################
 
@@ -90,7 +104,7 @@ def app():
     st.plotly_chart(fig)
 
     st.write(
-        "Over fice years there is no significant gender change in the population of the city"
+        "Over five years there is no significant gender change in the population of the city. We can see that there are a little more female inhabitants then male."
     )
 
     ###################################################################################################################################
@@ -116,7 +130,13 @@ def app():
     # Show the plot
     st.plotly_chart(fig)
 
-    st.write("showing only year 2017 because it's almost the same for all years")
+    st.write("You see only year 2017 because it's almost the same for all years")
+
+    st.write(
+        "In the barchart above we can see that the most populated district is Eixample, followed by Sant Martí and Sants-Montjuïc."
+    )
+
+    st.write("Lets see the immigration by nationality in Barcelona.")
 
     ###################################################################################################################################
 
@@ -152,9 +172,9 @@ def app():
 
     ###################################################################################################################################
 
-    st.write("Can I add a bar chart with the age of the population for the story")
-
-    ###################################################################################################################################
+    st.write(
+        "Now that we have seen the population by district, lets see the population by neighbourhood."
+    )
 
     st.subheader("Population by neighbourhood")
 
@@ -172,7 +192,6 @@ def app():
 
     data_2017 = data_population[data_population["Year"] == 2017]
 
-    # Create choropleth map
     # Create choropleth map
     fig = px.choropleth_mapbox(
         data_population.groupby(["Neighborhood.Name"]).sum().reset_index(),
@@ -192,8 +211,13 @@ def app():
 
     # Show the map using the plotly_chart function
     st.plotly_chart(fig)
+    st.write(
+        "Hover over the chart to see the neighbourhood name and the population amount."
+    )
 
     ###################################################################################################################################µµ
+
+    st.write("Now lets see the population pyramid.")
 
     df_2017 = df[df["Year"] == 2017]
 
@@ -209,3 +233,11 @@ def app():
     fig.update_layout(title="Population Pyramid", xaxis_title="Number")
 
     st.plotly_chart(fig)
+
+    st.write(
+        "We can clearly see that most of the people are between 30 and 60 years old. This is a regular chart for European countries."
+    )
+
+    st.subheader("Lets continue with the transport data.")
+    st.write("Interested in taking the bus, metro or train in Barcelona?")
+    st.write("Click the sidebar and select Transport.")
