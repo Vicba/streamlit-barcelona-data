@@ -164,5 +164,5 @@ def app():
     #########################################################################################################################################################
 
     st.write(
-        "Need to find more information about the city of Barcelona? Here are the locations of some tourist information offices. (IDK to add this because cant filter tourism in data.)"
+        "Need to find more information about the city of Barcelona? Here are the locations of some tourist information offices. clicke here!"
     )
