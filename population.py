@@ -209,11 +209,12 @@ def app():
 
     fig.update_layout(title="Population of Barcelona Neighborhoods in 2017")
 
-    # Show the map using the plotly_chart function
-    st.plotly_chart(fig)
     st.write(
         "Hover over the chart to see the neighbourhood name and the population amount."
     )
+
+    # Show the map using the plotly_chart function
+    st.plotly_chart(fig)
 
     ###################################################################################################################################µµ
 

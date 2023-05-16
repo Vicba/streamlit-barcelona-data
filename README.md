@@ -37,3 +37,5 @@ A quick look at the files and directories you'll see in the project.
 Looking for more guidance? Full documentation for Streamlit is [on the website](https://streamlit.io/).
 
 - **To dive straight into code samples, go [to the streamlit documentation](https://docs.streamlit.io/).**
+
+Text of project are from myself and [viacheslavliashenko](https://www.kaggle.com/viacheslavliashenko)
