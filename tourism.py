@@ -38,6 +38,12 @@ import requests
 def app():
     st.title("Tourism")
 
+    st.write(
+        "Barcelona is one of the most visited cities in Europe. In 2019, the city received 9.5 million tourists, and in 2018, the city received 8.7 million tourists. The city is also the 4th most visited city in Europe, after London, Paris, and Rome. Tourism in Barcelona is strongly influenced by international visitors. In 2019, 86% of tourists were international visitors, while 14% were domestic visitors. The city is also the 12th most visited city in the world, after Bangkok, London, Paris, Dubai, Singapore, Kuala Lumpur, New York City, Istanbul, Tokyo, Antalya, and Mumbai."
+    )
+
+    st.write("Lets see some hotels in Barcelona that accomodate these tourists.")
+
     st.subheader("Hotels")
 
     # Load data from JSON file
@@ -64,9 +70,14 @@ def app():
 
     # Display map in Streamlit app
     st.write("List and location of hotels in the city of Barcelona")
+
+    st.write("Click the marker to see the name of the hotel.")
+
     st_folium(m)
 
     #########################################################################################################################################################
+
+    st.subheader("Want to go out for a drink?")
 
     st.write(
         "List of music and drinks venues in the city of Barcelona that includes bars and pubs, cocktails, discotheques, karaokes, nightclubs, ballrooms, flamenco tablaos..."
@@ -101,7 +112,11 @@ def app():
 
     #########################################################################################################################################################
 
+    st.subheader("Explore the Catalan culture!")
+
     st.write("Detail of main cultural interest points in the city of Barcelona.")
+
+    st.write("Click the marker to see the name of the cultural interest point.")
 
     # Load data from JSON file
     url = "https://www.bcn.cat/tercerlloc/files/opendatabcn_pics-js.json"
@@ -131,6 +146,12 @@ def app():
     folium_static(m)
 
     #########################################################################################################################################################
+
+    st.subheader("Want to see the beautiful views?")
+
+    st.write(
+        "Barcelona has some mountains that are worth visiting! Lets explore their locations to see the incredible views!"
+    )
 
     st.write("List and location of viewpoints in the city of Barcelona.")
 
@@ -162,6 +183,10 @@ def app():
     folium_static(m)
 
     #########################################################################################################################################################
+
+    st.subheader(
+        "Thats it! Hope you enjoyed it and found it interesting! Lets travel to Barcelona!"
+    )
 
     st.write(
         "Need to find more information about the city of Barcelona? Here are the locations of some tourist information offices. [clicke here!](https://www.barcelonaturisme.com/wv3/en/)"
